@@ -1,0 +1,2 @@
+# aptDemo
+apt学习demo：利用apt注解技术获取activity的路径，进行activity之间的跳转
